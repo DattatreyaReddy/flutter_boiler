@@ -1,0 +1,17 @@
+{
+  "loginScreen" : {
+  "start": "Below are list of strings for login da ",
+  "userEmail": "Brugernavn",
+  "userPassword": "Adgangskode",
+  "forgotPassword": "Glemt adgangskode?",
+  "signIn": "Log ind",
+  "errorFillFields": "Udfyld venligst alle felterne"
+  },
+  "homeScreen" : {
+  "start": "Below are list of strings for home",
+  "posts": "Indlæg",
+  "error": "Fejl",
+  "noPostFound": "Ingen indlæg fundet",
+  "chooseLanguage": "Vælg sprog"
+  }
+}

@@ -1,0 +1,19 @@
+
+  {
+    "loginScreen" : {
+    "start": "Below are list of strings for login",
+    "userEmail": "Enter user email",
+    "userPassword": "Enter password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "errorFillFields": "Please fill in all fields"
+    },
+    "homeScreen" : {
+    "start": "Below are list of strings for home",
+    "posts": "Posts",
+    "error": "Error",
+    "noPostFound": "No posts found",
+    "chooseLanguage": "Choose Language"
+    }
+  }
+  
